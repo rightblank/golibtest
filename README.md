@@ -1,12 +1,9 @@
 # golibtest
 try to create an go-getable lib
-===
-this is just for fun
-======
-add test file 
-===
 
-now it's finished you can get it by run 
+
+
+now it's finished you can get it by running go get command 
 ```
 go get -u github.com/rightblank/golibtest
 ```
